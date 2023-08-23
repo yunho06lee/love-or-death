@@ -1,0 +1,41 @@
+﻿n/0/narrative/ /n/n/n/n/n
+n/111/me/그... 너랑 나랑 같은 방이면 안되지 않니..?/n/n/n/reflectedlight/Brighthotel
+n/112/나츠미/그치만 이렇게라도 하지 않으면 *쨩 나한테 관심을 주지 않는걸/n/NatsumiUniform/n/n/n
+n/113/me/하.. 그러면 적어도 나 좀 씻고 오면 안될까?/n/n/n/n/n
+n/114/나츠미/안돼~ 그냥 같이 있자~/n/NatsumiUniform/n/n/n
+n/115/me/내가 지금../n/n/n/n/n
+n/116/me/모래에 파도에 땀에 비까지 맞아서 몸이 만신창이인데도 씻으면 안돼?/n/n/n/n/n
+n/117/나츠미/그냥 이렇게 같이 있으면 안돼?/n/NatsumiUniform/n/n/n
+n/118/나츠미/난 아직도 널 좋아하는데 너는 나 싫어?/n/NatsumiUniform/n/n/n
+n/119/me/하.. 아냐 됐어.. 난 그냥 자련다/n/n/n/n/n
+n/120/나츠미/그래~ 잘자~/n/NatsumiUniform/n/n/n
+n/121/me/.../n/n/n/n/n
+n/122/me/자고 있는데도 손 잡아야해?/n/n/n/n/n
+n/123/나츠미/응! 이정도도 못해줘?/n/NatsumiUniform/n/n/n
+n/124/me/하.. 알았어../n/n/n/n/n
+n/125/me/하.. 너무 더워../n/none/n/n/Darkhotel
+n/126/me/내가 왜 이렇게 살아야 하지../n/n/n/n/n
+n/127/me/바다.. 오지 말걸 그랬나../n/n/n/n/n
+n/128/me/이 손... 이 손만 안 잡혔어도 좋았을텐데../n/n/n/n/n
+n/129/me/하.. 왜 이렇게 된걸까../n/n/n/n/n
+n/130/me/놀려 나가지 말걸../n/n/n/n/n
+n/131/narrative/나도 처음부터 히키코모리였던 건 아니다./n/none/n/n/Underwater
+n/132/narrative/나 나름대로 열심히 공부했고/n/n/n/n/n
+n/133/narrative/어느정도 그 결과가 나오기도 했다./n/n/n/n/n
+n/134/narrative/100등에서부터 시작해서 80..60..40../n/n/n/n/n
+n/135/narrative/어찌저찌해서 결국 도쿄의 한 고등학교를 합격하게 되었다./n/n/n/n/n
+n/136/narrative/하지만 잘못된 선택이였을까/n/n/n/n/n
+n/137/narrative/매일매일 피를 쏟으며 공부해도 내 성적은../n/n/n/n/n
+n/138/narrative/오르지 않았다./n/n/n/n/n
+n/139/narrative/내가 1분1초를 아껴가며 힘들게 공부해도/n/n/n/n/n
+n/140/narrative/이미 높고높은 곳에 있는 그들을 따라갈 순 없었다./n/n/n/n/n
+n/141/narrative/그렇게 나에겐 무능함과 주변의 시선만이 남았다./n/n/n/n/n
+n/142/narrative/난 여기서 뭘하고 있지?/n/n/n/n/n
+n/143/narrative/이렇게 해서 무슨 의미가 있지?/n/n/n/n/n
+n/144/narrative/더 이상 이런 동정 받고 싶지 않아../n/n/n/n/n
+n/145/narrative/난 열심히 했다고../n/n/n/n/n
+n/146/narrative/그래도 안되면.../n/n/n/n/n
+n/147/narrative/포기하는게 낫지 않나?/n/n/n/n/n
+n/148/me/그래 맞아.../n/n/n/n/Darkhotel
+n/149/me/나 같은 건 그냥 방구석에나 쳐 박혀 있는게 맞아../n/n/n/n/n
+n/150/me/지금이라도 이 곳을 떠나야겠어../n/n/n/n/n

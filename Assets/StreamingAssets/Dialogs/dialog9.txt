@@ -1,0 +1,21 @@
+﻿n/0/narrative/ /n/n/n/n/n
+n/312/narrative/(그렇게 휴가의 마지막날 아침)/n/n/n/summer/City
+n/313/narrative/(우리는 떠날 준비를 하고 있다.)/n/n/n/n/n
+n/314/겐타쿠/이제 떠나야 하네../n/HimuroBeach/n/n/n
+n/315/겐타쿠/우리는 도쿄로 돌아갈건데 넌 어떻게 할래?/n/n/n/n/n
+n/316/나츠미/나? 난 * 따라갈건데?/n/NatsumiHoodie/n/n/n
+n/317/나츠미/근데 내가 여기를 떠나려면 *(이)가 날 안아줘야 해/n/n/n/n/n
+n/318/me/..?/n/n/n/n/n
+n/319/me/손 잡는 걸로는 충분하지 않은거야?/n/n/n/n/n
+n/320/나츠미/확실히 검증해야지~/n/NatsumiHoodie/n/n/n
+n/321/나츠미/이번엔 강요하진 않을게. 날 사랑하면 안아줘/n/n/n/n/n
+n/322/me/안는다/n/n/n/n/n
+n/323/나츠미/응?! 뭐야! 이걸 진짜 해줘?!/n/NatsumiHoodie/n/n/n
+n/324/me/이러지 않으면 안되는거 아니였어?/n/n/n/n/n
+n/325/나츠미/하루종일 손 잡는 걸로 증명이 안 됐겠어?/n/NatsumiHoodie/n/n/n
+n/326/나츠미/그냥 남친이 이런 것도 해줬으면 좋겠다~ 싶어서 해봤어 ㅎㅎ/n/n/n/n/n
+n/327/겐타쿠/그 저기요 그쪽만 있는게 아니거든요/n/HimuroBeach/n/n/n
+n/328/겐타쿠/꽁냥꽁냥은 둘이 있는 곳에서만 합시다/n/n/n/n/n
+n/329/me/ㅎㅎ 미안/n/n/n/n/n
+n/330/겐타쿠/암튼 이번 여행 어땠어? 최고의 여름방학이었지?/n/HimuroBeach/n/n/n
+n/331/me/응.. 최고의 여름방학이었네/n/n/n/n/n

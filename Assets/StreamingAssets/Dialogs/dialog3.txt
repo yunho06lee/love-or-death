@@ -1,0 +1,56 @@
+﻿n/0/narrative/ /n/n/n/n/n
+n/56/narrative/(그렇게 우리는 손을 잡으며 걷고 있다.)/n/n/n/cookies/Sea
+n/57/me/우리 그냥 숙소 가면 안돼?/n/n/n/n/n
+n/58/나츠미/어? 빙수가게!/n/NatsumiUniform/n/n/n
+n/59/나츠미/야! 야! 우리 빙수 먹으러 가자/n/n/n/n/n
+n/60/나츠미/음~ 마싰다~/n/n/n/n/Store
+n/61/나츠미/입 맛없어? 왜 안먹고 있어/n/n/n/n/n
+n/62/me/차가운걸 별로 안 좋아해/n/n/n/n/n
+n/63/나츠미/미리 말하지! 괜히 끌고 왔네../n/n/n/n/n
+n/64/me/(난 그냥 숙소나 가서 쉬고 싶은데)/n/n/n/n/n
+n/65/나츠미/어? 쟤 너 친구 아니야?/n/n/n/n/n
+n/66/겐타쿠/어이~ 커플들 데이트하냐?/n/HimuroBeach/n/n/n
+n/67/나츠미/안녕하세요. 시미즈 나츠미しみず•なつみ라고 합니다. 저희 사귀고 있어요^^/n/NatsumiUniform/n/n/n
+n/68/사쿠라 & 카즈하/예?/n/SakuraBeach/n/n/n
+n/69/겐타쿠/아까 나츠미가 쟤한테 고백하던데?/n/HimuroBeach/n/n/n
+n/70/사쿠라 & 카즈하/쟤한테?/n/KazuhaBeach/n/n/n
+n/71/사쿠라/너무 예쁘셔가지고 남자 보는 눈이 없으시다~ 왜 저런 애를 좋아하고 그래요^^/n/n/n/n/n
+n/72/나츠미/착하고 잘생겼고 사람들 잘 도와주고 분위기 좋고 다른 사람 피해 안주고 조용하고 주변에 여자 없을 것 같고 여러 가지 있죠~/n/NatsumiUniform/n/n/n
+n/73/사쿠라 & 카즈하/아 ㅎㅎ/n/KazuhaBeach/n/n/n
+n/74/겐타쿠/가만히 서서 이야기만 하지 말고 이제 바다 좀 가자~/n/HimuroBeach/n/n/n
+n/75/사쿠라/그래~ 가자/n/SakuraBeach/n/n/n
+n/76/me/(아.. 집 가고 싶다..)/n/n/n/n/Beach2
+n/77/나츠미/할거 없으면 모래성이라도 만드는거 어때?/n/NatsumiUniform/n/n/n
+n/78/me/귀찮아../n/n/n/n/n
+n/79/나츠미/그래도~/n/NatsumiUniform/n/n/n
+n/80/me/어쩔 수 없네../n/n/n/n/n
+n/81/narrative/(같이 모래성을 만든다)/n/n/n/n/n
+n/82/나츠미/하~ 끝났다~ 잘 만들었지?/n/NatsumiUniform/n/n/n
+n/83/me/힘..힘들어.../n/n/n/n/n
+n/84/나츠미/그래도 결과가 예쁘게 나왔으면 됐지/n/NatsumiUniform/n/n/n
+n/85/겐타쿠/오~ 잘 만들었네~ 누가 만들었어?/n/HimuroBeach/n/n/n
+n/86/나츠미/나랑 남친이랑~/n/NatsumiUniform/n/n/n
+n/87/겐타쿠/헉! 혹시 당신은 신이신가요? 어떻게 우리 애를 이렇게 활동적으로../n/HimuroBeach/n/n/n
+n/88/me/앉아서 조금씩 하는건 할 수 있어../n/n/n/n/n
+n/89/겐타쿠/아니 변명까지 할 수 있게 하는 당신은... 대체/n/HimuroBeach/n/n/n
+n/90/me/그런거 아니라니깐../n/n/n/n/n
+n/91/사쿠라/그나저나 이제 좀 배고프지 않아?/n/SakuraBeach/n/n/n
+n/92/겐타쿠/확실히 이젠 좀 배고프긴 하지~/n/HimuroBeach/n/n/n
+n/93/카즈하/저쪽에 맛있어 보이는 타코야끼 가게 있던데 갈래?/n/KazuhaBeach/n/n/n
+n/94/사쿠라/맛있겠다! 빨리 가자/n/SakuraBeach/n/n/n
+n/95/겐타쿠/음~ 맛있다~/n/HimuroBeach/n/n/Store
+n/96/겐타쿠/아저씨~ 여기 타코야끼 하나 추가요!/n/HimuroBeach/n/n/n
+n/97/주인장/허허 맛있게 먹으니까 좋구만/n/n/n/n/n
+n/98/주인장/너회들은 여기 처음 왔니?/n/n/n/n/n
+n/99/카즈하/네 이번에 이벤트 당첨돼서 오게 됐어요/n/KazuhaBeach/n/n/n
+n/100/주인장/음.. 너희 그러면/n/n/n/n/n
+n/101/주인장/이 전망대 티켓 쓸래? 난 바뻐서 못 쓸거 같거든/n/n/n/n/n
+n/102/주인장/아마도 내일 방 축제에서 불꽃놀이를 할텐데 이 전망대가 그거 보기 가장 좋거든/n/n/n/n/n
+n/103/사쿠라/이 귀한 거를?! 감사합니다!/n/SakuraBeach/n/n/n
+n/104/주인장/허허 내 몫까지 잘 놀고 오시게나/n/n/n/n/n
+n/105/겐타쿠/잘먹었습니다. 저희는 이제 가볼게요/n/HimuroBeach/n/n/n
+n/106/주인장/허허 잘 가시게/n/n/n/n/n
+n/107/me/비 오는거 같은데.../n/n/n/n/Road
+n/108/카즈하/어떡하지../n/KazuhaBeach/n/n/n
+n/109/사쿠라/어떡하긴.. 뛰어가야하지 않을까..?/n/SakuraBeach/n/n/n
+n/110/겐타쿠/맞아.. 뛰자!/n/HimuroBeach/n/n/n

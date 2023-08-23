@@ -1,0 +1,24 @@
+﻿n/0/narrative/ /n/n/n/n/n
+n/151/나츠미/왜.. 이 새벽에 무슨 일이야../n/NatsumiHoodie/n/PianoSimple/Darkhotel
+n/152/me/이제.. 손 좀 놔줘../n/n/n/n/n
+n/153/나츠미/왜~ 그냥 잡고 있자~/n/NatsumiHoodie/n/n/n
+n/154/me/좀 놓으라고!/n/n/n/n/n
+n/155/나츠미/갑자기.. 왜 그래../n/NatsumiHoodie/n/n/n
+n/156/me/다 너 때문이야!/n/n/n/n/n
+n/157/me/난 평소에 운이라도 좋은 사람이었어/n/n/n/n/n
+n/158/me/근데? 너가 오고 나서 다 엉망진창이야!/n/n/n/n/n
+n/159/me/내 인생에서 유일하게../n/n/n/n/n
+n/160/me/다른 사람에게 자랑할 수 있었던 운을../n/n/n/n/n
+n/161/me/너가 없애버렸다고!/n/n/n/n/n
+n/162/me/너랑 있고 나서부터/n/n/n/n/n
+n/163/me/모래 묻고 비 맞고 땀도 나는데 씻지도 못하고/n/n/n/n/n
+n/164/me/날 얼마나 괴롭힐 셈이야 넌!/n/n/n/n/n
+n/165/나츠미/미안.. 난 너가 좋아서../n/NatsumiHoodie/n/n/n
+n/166/나츠미/지금이라도 내가 널 도울 수 있는게 있을까?/n/NatsumiHoodie/n/n/n
+n/167/me/그럼../n/n/n/n/n
+n/168/me/제발.. 손을 좀 놔줘../n/n/n/n/n
+n/169/나츠미/미안.. 그것만은 안될거 같아../n/NatsumiHoodie/n/n/n
+n/170/me/그러면 해줄 수 있는게 뭔데!/n/n/n/n/n
+n/171/narrative/(나츠미의 손을 뿌리쳤다.)/n/n/n/n/n
+n/172/me/난 떠날거야.. 이제 좀 쉬고 싶어/n/n/n/n/Road
+n/173/narrative/(비 오는 거리를 혼자 걷다 쓰러진다)/n/n/n/n/n
